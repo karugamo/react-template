@@ -1,0 +1,30 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flexiproducts/react-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flexiproducts/react-template/issues"
+  },
+  "homepage": "https://github.com/flexiproducts/react-template#readme",
+  "dependencies": {
+    "@types/react": "^17.0.1",
+    "@types/react-dom": "^16.9.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
+}
