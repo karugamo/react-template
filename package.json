@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/flexiproducts/react-template#readme",
   "dependencies": {
-    "@types/react": "^17.0.1",
+    "@types/react": "^16.9.55",
     "@types/react-dom": "^16.9.9",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
