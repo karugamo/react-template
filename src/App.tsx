@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 
 export default function App() {
-    return <Main>a nice new project 👍</Main>
+    return <Main>a nice new project</Main>
 }
 
 const Main = styled.div`
